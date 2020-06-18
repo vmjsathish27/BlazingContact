@@ -17616,9 +17616,9 @@ label {
 .page-title-area {
 	position: relative; 
     z-index: 1;    
-    padding-top: 110px;   
+    padding-top: 120px;   
     text-align: center;
-    border-bottom: 1px dashed #f1f1f1;
+    
 }
 
 .page-title-area h2 {
@@ -17629,7 +17629,7 @@ label {
 
 .PgaeTitle {
     padding: 200px 0px;
-    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591624078phpISYLM4.jpg);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592497694phpHZpHE5.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -17647,6 +17647,14 @@ label {
 	text-align: center;
 	color: #000;
     line-height: 1.8;
+}
+
+.contact-area {
+	background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592498027php7PWldG.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+	padding: 80px 0px;
 }
 
 .faq-accordion {
